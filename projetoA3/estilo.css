@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+body {
+    background-color: rgb(23, 245, 197);
+    font-family: "Arial", sans-serif;
+    
+  }
+  
+.Login {
+  
+    margin: 190px;
+    width: 260px;
+    height: 190px;
+    border: 1px solid darkcyan;
+    padding: 10px 20px;
+    background-color: rgba(12, 12, 12, 0.411);
+  }
+  
+
+.Cada{
+  margin: 200 px;
+  width: 158px;
+  height: 140px;
+  border: 3px solid darkcyan;
+  padding: 25px 30px;
+ 
+
+}
+
+
+.Cad {
+    
+    width: 200px;
+    height: 175px;
+    border: 1px solid darkcyan;
+    padding: 15px 20px;
+    background-color: rgba(12, 12, 12, 0.411);
+
+}
+.Meio {
+    margin: 190px;
+    width: 260px;
+    height: 190px;
+    border: 1px solid darkcyan;
+    padding: 10px 20px;
+    background-color: rgba(12, 12, 12, 0.411);
+}
+  
+
+.button:hover {
+  background-color: darkcyan;
+}
+
+
+
+
+
